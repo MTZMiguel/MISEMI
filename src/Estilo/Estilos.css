@@ -1,0 +1,35 @@
+body {
+    overflow-x: hidden;
+}
+.encabezado {
+    color:black;
+}
+.text-center {
+  font-family:Candara;
+}
+.navbar-brand {
+  font-family:Candara;
+}
+.btn btn-outline-success {
+  font-family:Candara;
+}
+.card-title {
+  font-family:Candara;
+}
+.IniciarSesion {
+  font-family:Candara;
+  color:black;
+}
+.Registro {
+  font-family:Candara;
+  color:black;
+}
+.card-header {
+  font-family:Candara;
+}
+.form-label {
+  font-family:Candara;
+}
+.Bienvenido {
+  font-family:Candara;
+}
