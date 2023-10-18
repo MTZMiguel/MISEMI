@@ -24,7 +24,7 @@ function ContenidoCurso1() {
                 </h5>
               </div>
             </div>
-          </div>
+          </div> 
           <div className="col-lg-8">
             <div className="card mb-4">
               <div className="card-body" 
