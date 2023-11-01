@@ -1,6 +1,7 @@
 import React from "react";
 import Menu from "../Componentes/Menu";
 import SignIn from "../Componentes/SignIn";
+import FormularioRegistro from "../Componentes/FormularioRegistro";
 
 function Registro(){
   return (
@@ -8,7 +9,7 @@ function Registro(){
     <div className="container" 
       style={{backgroundColor:'#BBDEFB'}}>
       <Menu/>
-      <SignIn/>
+      <FormularioRegistro/>
     </div>
   );
 }

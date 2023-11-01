@@ -1,0 +1,54 @@
+{
+  "short_name": "MISEMI",
+  "name": "MISEMI",
+  "description": "BASE DE DATOS PARA MORGUES",
+  "background_color": "#ffffff", 
+  "theme_color": "#ebf3ff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./Img/IMAGEN - 32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./Img/IMAGEN - 48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./Img/IMAGEN - 64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./Img/IMAGEN - 72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./Img/IMAGEN - 96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./Img/IMAGEN - 128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./Img/IMAGEN - 256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./Img/IMAGEN - 512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

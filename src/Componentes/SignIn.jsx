@@ -15,20 +15,20 @@ function SingIn() {
               <div class="card-body" style={{backgroundColor:"#E3F3F3"}}>
                 <form action="/HomeL" method="get">
                   <div className="col-md-6 p-2">
-                <label htmlFor="inputEmail4" className="form-label"><h5>Correo</h5></label>
-                <input type="email" className="form-control" id="inputEmail4"/>
+                <label htmlFor="inputEmail4" className="form-label"><h5>Nombre</h5></label>
+                <input type="text" className="form-control" id="inputEmail4"/>
               </div>
               <div className="col-md-6 p-2">
-                <label htmlFor="inputPassword4" className="form-label"><h5>Contraseña</h5></label>
-                <input type="password" className="form-control" id="inputPassword4"/>
+                <label htmlFor="inputPassword4" className="form-label"><h5>Apellido</h5></label>
+                <input type="text" className="form-control" id="inputPassword4"/>
               </div>
               <div className="col-12 p-2">
-                <label htmlFor="inputAddress" className="form-label"><h5>Direccion</h5></label>
-                <input type="text" className="form-control" id="inputAddress" placeholder="1234 Main St"/>
+                <label htmlFor="inputAddress" className="form-label"><h5>Correo</h5></label>
+                <input type="email" className="form-control" id="inputAddress"/>
               </div>
               <div className="col-12 p-2">
-                <label htmlFor="inputAddress2" className="form-label"><h5>Complemento</h5></label>
-                <input type="text" className="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor"/>
+                <label htmlFor="inputAddress2" className="form-label"><h5>Contraseña</h5></label>
+                <input type="password" className="form-control" id="inputAddress2"/>
               </div>
               <div className="col-md-6 p-2">
                 <label htmlFor="inputCity" className="form-label"><h5>Ciudad</h5></label>
@@ -45,17 +45,6 @@ function SingIn() {
                   <option value="Magdalena">Magdalena</option>
                   <option value="Santander">Santander</option>
                 </select>
-              </div>
-
-              <div className="col-12 p-2">
-                <label htmlFor="fechaNacimiento" className="form-label">
-                  <h5>Fecha de Nacimiento</h5>
-                </label>
-                <input 
-                  type="date" 
-                  className="form-control" 
-                  id="fechaNacimiento" 
-                  name="fechaNacimiento"/>
               </div>
               
               
